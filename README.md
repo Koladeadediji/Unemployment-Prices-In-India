@@ -1,4 +1,4 @@
-# Unemployment-Prices-In-India
+# Unemployment-rate-In-India
 ## Introduction
 
 This project focuses on analysing the Unemployment rate in some cities in India over the period from 2019-2020. The dataset contains valuable information about key parameters about Employment details across India in communities like Andhra Pradesh, Delhi and Sikkim. The objective of this project is to extract insights from the data to make inform decison-making  within India on the issue of Unemployment rate and number of Individuals Employed  
